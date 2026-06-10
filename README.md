@@ -2,9 +2,6 @@
 
 This is my project for searching inside PDF files. You can upload PDFs and then ask questions from them. It will show you the most related text from your documents.
 
-## 🌐 Live Demo
-
-👉 [View Project on Streamlit](https://assignment-15-gsjnm98vennnqssh6nf7qv.streamlit.app/)
 
 ---
 
